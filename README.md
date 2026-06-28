@@ -1,6 +1,6 @@
 # CS 230 Portfolio Reflection – Draw It or Lose It
 
-#Project Summary
+# Project Summary
 
 For this project, I worked with a fictional client called The Gaming Room, who wanted to expand their Android game, Draw It or Lose It, into a web-based application that could run on multiple operating systems. The goal was to design software that could support multiple users at the same time, keep game, team, and player names unique, and be scalable, secure, and easy to maintain as the application grows.
 
